@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "play-degen-games-com.vercel.app/", "destination": "/coinflip" },
-      { "source": "/", "destination": "/" }
+      { "source": "/coinflip", "destination": "/coinflip" },
+      { "source": "/rps", "destination": "/rps" }
     ]
   }
