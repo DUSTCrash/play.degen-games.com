@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "https://play-degen-games-com.vercel.app/", "destination": "/rps" }
+  ]
+}
