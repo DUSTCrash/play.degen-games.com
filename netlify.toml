@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/rps"
+status = 200
