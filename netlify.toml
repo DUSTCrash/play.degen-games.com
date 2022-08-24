@@ -1,4 +1,4 @@
 [[redirects]]
-from = "https://strong-paprenjak-38325a.netlify.app/*"
-to = "/"
+from = "/*"
+to = "/*"
 status = 200
