@@ -1,14 +1,4 @@
 [[redirects]]
-  from = "/*"
-  to = "/rps"
-  status = 200
-
-  [[redirects]]
-  from = "/*"
-  to = "/dice"
-  status = 200
-
-  [[redirects]]
-  from = "/*"
-  to = "/coinflip"
-  status = 200
+from = "/*"
+to = "/index.html"
+status = 200
